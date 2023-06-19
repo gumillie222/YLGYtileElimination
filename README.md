@@ -1,7 +1,7 @@
 # YLGYtileElimination
 This is a tile elimination game, inspired by a once super popular Chinese video game that I've spent way too many hours playing.
 
-![](image.png)
+![](image.png =200*400)
 
 ### An overview of each of the classes, and what their function is in the overall game.
 
